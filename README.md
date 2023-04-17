@@ -1,2 +1,2 @@
-# Python-Gurobi
+# Python - Gurobi
 Python - Gurobi Repo
