@@ -1,0 +1,26 @@
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (mac64[arm])
+
+CPU model: Apple M1
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 5 rows, 4 columns and 16 nonzeros
+Model fingerprint: 0xb09634a0
+Coefficient statistics:
+  Matrix range     [8e-02, 5e+01]
+  Objective range  [4e+01, 1e+02]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [7e+01, 2e+04]
+Presolve time: 0.00s
+Presolved: 5 rows, 4 columns, 16 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.6250000e+31   1.127063e+31   4.625000e+01      0s
+       3    4.5522222e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  4.552222222e+04
+x1: 175.55555555555557
+x2: 57.77777777777777
+x3: 500.0
+x4: 0.0
+Optimal Objective Value: 45522.22222222222
